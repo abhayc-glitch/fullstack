@@ -1,6 +1,7 @@
 # fullstack
 
 #### Rule of Thumb - When learning something new tech skim through its documentation and research it (NextAuthJS - Look at docs understand what it is etc.)
+#### Always learn by doing not takign notes or non of that bullshit
 
 ##### Web Dev Concepts
 
@@ -43,6 +44,10 @@ NextAuth.JS - https://www.youtube.com/watch?v=w2h54xz6Ndw&t=639s&ab_channel=Dave
 - Watch this video from 1:53:20 - https://www.youtube.com/watch?v=O5cmLDVTgAs&t=7089s&ab_channel=JavaScriptMastery 
 - Super Important
 
+
+##### Final Project
+- AFTER LEARNING ALL OF THIS -> spend a week or so building some sort of application using all the technologies you learned - example: (chat app w good graphics, a website for dopamine project that has things like usersign up)
+  - You can put this on the resume and useful for credibility. You learn the most by doing. 
 
 
 
