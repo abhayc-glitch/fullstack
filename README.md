@@ -30,15 +30,10 @@ TailwindCSS - brush up - styling shit isnt hard you can always chatGPT for style
   - https://www.youtube.com/watch?v=rLRIB6AF2Dg&ab_channel=Fireship 
 
 ##### Authentication
-> Based on which libraries you liek better use that one - NextAuth is where the current thing is at though
+
 Auth0 - https://www.youtube.com/watch?v=yufqeJLP1rI&t=419s&ab_channel=Fireship (use this to understand it)
   - https://www.youtube.com/watch?v=16euljI71LM&ab_channel=ArpanNeupane - good starting point
   - https://www.youtube.com/watch?v=wnrGmNDNVvM&ab_channel=HamedBahram - Advanced authentication - routing caching
-
-
-NextAuth.JS - https://www.youtube.com/watch?v=w2h54xz6Ndw&t=639s&ab_channel=DaveGray 
-    - https://www.youtube.com/results?search_query=next+js+13+nextauth+ 
-    - Search up the docs
 
 ###### What you have to build
 - Watch this video from 1:53:20 - https://www.youtube.com/watch?v=O5cmLDVTgAs&t=7089s&ab_channel=JavaScriptMastery 
